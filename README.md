@@ -17,3 +17,9 @@ Selektieren
 ```
 curl http://localhost:8080/times
 ```
+
+
+DB konfiguriert mit
+```
+SET GLOBAL time_zone = "Europe/Berlin"
+```
